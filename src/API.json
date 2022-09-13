@@ -1,0 +1,930 @@
+{
+    "transaction": {},
+    "QueryInfo": {},
+    "Property": [
+        {
+            "Reference": "R4083079",
+            "AgencyRef": "CAN0000180655",
+            "Country": "Spain",
+            "Province": "Málaga",
+            "Area": "Costa del Sol",
+            "Location": "Casares",
+            "SubLocation": "",
+            "PropertyType": {
+                "NameType": "Parking Space",
+                "Type": "Commercial",
+                "TypeId": "4-1",
+                "Subtype1": "Parking Space",
+                "SubtypeId1": "4-12"
+            },
+            "Status": {
+                "system": "Available",
+                "en": "Available"
+            },
+            "Bedrooms": "0",
+            "Bathrooms": "0",
+            "Currency": "EUR",
+            "Price": "4500",
+            "OriginalPrice": 4500,
+            "Dimensions": "Metres",
+            "Built": 19,
+            "Terrace": 0,
+            "GardenPlot": 0,
+            "CO2Rated": "",
+            "EnergyRated": "",
+            "OwnProperty": "0",
+            "Pool": 0,
+            "Parking": 0,
+            "Garden": 0,
+            "Description": "Stop looking for a place to park your vehicle and come and see this garage space for sale in the basement of a building located in Casares (Málaga). It enjoys easy access and good manoeuvrability. Parking in the area is sometimes difficult. Take advantage of the opportunity and come see this parking space without obligation..\r\n",
+            "PropertyFeatures": {
+                "Category": [
+                    {
+                        "Type": "Utilities",
+                        "Value": [
+                            "Electricity",
+                            "Drinkable Water"
+                        ]
+                    }
+                ]
+            },
+            "Pictures": {
+                "Count": 5,
+                "Picture": [
+                    {
+                        "Id": 1,
+                        "PictureURL": "https://cdn.resales-online.com/public/163acm230g/properties/b594e317f22411eca97d0217bc231ef4/w400/1-8feb9a13440344d11ba504bcb1dd499c.jpg?v=1655903602",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 2,
+                        "PictureURL": "https://cdn.resales-online.com/public/163acm230g/properties/b594e317f22411eca97d0217bc231ef4/w400/2-0b399daebcdd6827eaba8c944d7c5b78.jpg?v=1655903602",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 3,
+                        "PictureURL": "https://cdn.resales-online.com/public/163acm230g/properties/b594e317f22411eca97d0217bc231ef4/w400/3-9044ff3015df52bb84e13bfc318443ab.jpg?v=1655903602",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 4,
+                        "PictureURL": "https://cdn.resales-online.com/public/163acm230g/properties/b594e317f22411eca97d0217bc231ef4/w400/4-31eddec24faf40464bcee8b2fd51cd02.jpg?v=1655903602",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 5,
+                        "PictureURL": "https://cdn.resales-online.com/public/163acm230g/properties/b594e317f22411eca97d0217bc231ef4/w400/5-b932bcf4fe2dcf29ec63deb5c5ded9de.jpg?v=1655903602",
+                        "PictureCaption": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Reference": "R3504919",
+            "AgencyRef": "MLST510200",
+            "Country": "Spain",
+            "Province": "Málaga",
+            "Area": "Costa del Sol",
+            "Location": "Elviria",
+            "SubLocation": "",
+            "PropertyType": {
+                "NameType": "Storage Room",
+                "Type": "Commercial",
+                "TypeId": "4-1",
+                "Subtype1": "Storage Room",
+                "SubtypeId1": "4-11"
+            },
+            "Status": {
+                "system": "Available",
+                "en": "Available"
+            },
+            "Bedrooms": "0",
+            "Bathrooms": "0",
+            "Currency": "EUR",
+            "Price": "6800",
+            "OriginalPrice": 6800,
+            "Dimensions": "Metres",
+            "Built": 4,
+            "Terrace": 0,
+            "GardenPlot": 0,
+            "CO2Rated": "",
+            "EnergyRated": "",
+            "OwnProperty": "0",
+            "Pool": 0,
+            "Parking": 0,
+            "Garden": 0,
+            "Description": "Freehold storage room for sale of 4,24 m2 in Los Pinares de Don Carlos - Conjunto Genova, Elviria, Marbella.",
+            "PropertyFeatures": {
+                "Category": []
+            },
+            "Pictures": {
+                "Count": 2,
+                "Picture": [
+                    {
+                        "Id": 1,
+                        "PictureURL": "https://cdn.resales-online.com/public/68mpncnhi7/properties/zoncwytogxvphhi/w400/1-8feb9a13440344d11ba504bcb1dd499c.jpg?v=1598956346",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 2,
+                        "PictureURL": "https://cdn.resales-online.com/public/68mpncnhi7/properties/zoncwytogxvphhi/w400/2-0b399daebcdd6827eaba8c944d7c5b78.jpg?v=1598956346",
+                        "PictureCaption": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Reference": "R2554313",
+            "AgencyRef": "34",
+            "Country": "Spain",
+            "Province": "Málaga",
+            "Area": "Costa del Sol",
+            "Location": "Riviera del Sol",
+            "SubLocation": "",
+            "PropertyType": {
+                "NameType": "Garage",
+                "Type": "Commercial",
+                "TypeId": "4-1",
+                "Subtype1": "Garage",
+                "SubtypeId1": "4-17",
+                "Subtype2": "Parking Space",
+                "SubtypeId2": "4-12"
+            },
+            "Status": {
+                "system": "Available",
+                "en": "Available"
+            },
+            "Bedrooms": "0",
+            "Bathrooms": "0",
+            "Currency": "EUR",
+            "Price": "7000",
+            "OriginalPrice": 7000,
+            "Dimensions": "Metres",
+            "Built": 12,
+            "Terrace": 0,
+            "GardenPlot": 0,
+            "CO2Rated": "",
+            "EnergyRated": "",
+            "OwnProperty": "0",
+            "Pool": 0,
+            "Parking": 1,
+            "Garden": 0,
+            "Description": "Underground parking, low área of Rivera del sol. Walking distace to shop. Safe., lift, 12m2",
+            "PropertyFeatures": {
+                "Category": [
+                    {
+                        "Type": "Setting",
+                        "Value": [
+                            "Urbanisation"
+                        ]
+                    },
+                    {
+                        "Type": "Condition",
+                        "Value": [
+                            "Excellent"
+                        ]
+                    },
+                    {
+                        "Type": "Parking",
+                        "Value": [
+                            "Underground"
+                        ]
+                    },
+                    {
+                        "Type": "Category",
+                        "Value": [
+                            "Bargain"
+                        ]
+                    }
+                ]
+            },
+            "Pictures": {
+                "Count": 2,
+                "Picture": [
+                    {
+                        "Id": 1,
+                        "PictureURL": "https://cdn.resales-online.com/public/s8nufhdcl7/properties/lblwnnmrkgmpbym/w400/1-8feb9a13440344d11ba504bcb1dd499c.jpg?v=1610646020",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 2,
+                        "PictureURL": "https://cdn.resales-online.com/public/s8nufhdcl7/properties/lblwnnmrkgmpbym/w400/2-0b399daebcdd6827eaba8c944d7c5b78.jpg?v=1610646020",
+                        "PictureCaption": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Reference": "R3335866",
+            "AgencyRef": "FA902",
+            "Country": "Spain",
+            "Province": "Málaga",
+            "Area": "Costa del Sol",
+            "Location": "Los Pacos",
+            "SubLocation": "",
+            "PropertyType": {
+                "NameType": "Garage",
+                "Type": "Commercial",
+                "TypeId": "4-1",
+                "Subtype1": "Garage",
+                "SubtypeId1": "4-17"
+            },
+            "Status": {
+                "system": "Available",
+                "en": "Available"
+            },
+            "Bedrooms": "0",
+            "Bathrooms": "0",
+            "Currency": "EUR",
+            "Price": "7000",
+            "OriginalPrice": 9000,
+            "Dimensions": "Metres",
+            "Built": 12,
+            "Terrace": 0,
+            "GardenPlot": 0,
+            "CO2Rated": "",
+            "EnergyRated": "",
+            "OwnProperty": "0",
+            "Pool": 0,
+            "Parking": 1,
+            "Garden": 0,
+            "Description": "For Sale private parking space in the building named &quot;Solvalle&quot;",
+            "PropertyFeatures": {
+                "Category": [
+                    {
+                        "Type": "Setting",
+                        "Value": [
+                            "Urbanisation"
+                        ]
+                    },
+                    {
+                        "Type": "Condition",
+                        "Value": [
+                            "Good"
+                        ]
+                    },
+                    {
+                        "Type": "Features",
+                        "Value": [
+                            "Basement"
+                        ]
+                    },
+                    {
+                        "Type": "Parking",
+                        "Value": [
+                            "Garage",
+                            "Covered",
+                            "Private"
+                        ]
+                    },
+                    {
+                        "Type": "Category",
+                        "Value": [
+                            "Resale"
+                        ]
+                    }
+                ]
+            },
+            "Pictures": {
+                "Count": 5,
+                "Picture": [
+                    {
+                        "Id": 1,
+                        "PictureURL": "https://cdn.resales-online.com/public/s55bahn5ji/properties/pjgdfstbhxeeham/w400/1-8feb9a13440344d11ba504bcb1dd499c.jpg?v=1601377795",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 2,
+                        "PictureURL": "https://cdn.resales-online.com/public/s55bahn5ji/properties/pjgdfstbhxeeham/w400/2-0b399daebcdd6827eaba8c944d7c5b78.jpg?v=1601377795",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 3,
+                        "PictureURL": "https://cdn.resales-online.com/public/s55bahn5ji/properties/pjgdfstbhxeeham/w400/3-9044ff3015df52bb84e13bfc318443ab.jpg?v=1601377795",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 4,
+                        "PictureURL": "https://cdn.resales-online.com/public/s55bahn5ji/properties/pjgdfstbhxeeham/w400/4-31eddec24faf40464bcee8b2fd51cd02.jpg?v=1601377795",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 5,
+                        "PictureURL": "https://cdn.resales-online.com/public/s55bahn5ji/properties/pjgdfstbhxeeham/w400/5-b932bcf4fe2dcf29ec63deb5c5ded9de.jpg?v=1601377795",
+                        "PictureCaption": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Reference": "R4000171",
+            "AgencyRef": "361-03889P",
+            "Country": "Spain",
+            "Province": "Málaga",
+            "Area": "Costa del Sol",
+            "Location": "Calahonda",
+            "SubLocation": "",
+            "PropertyType": {
+                "NameType": "Parking Space",
+                "Type": "Commercial",
+                "TypeId": "4-1",
+                "Subtype1": "Parking Space",
+                "SubtypeId1": "4-12"
+            },
+            "Status": {
+                "system": "Available",
+                "en": "Available"
+            },
+            "Bedrooms": "0",
+            "Bathrooms": "0",
+            "Currency": "EUR",
+            "Price": "7800",
+            "OriginalPrice": 8500,
+            "Dimensions": "Metres",
+            "Built": 20,
+            "Terrace": 0,
+            "GardenPlot": 0,
+            "CO2Rated": "",
+            "EnergyRated": "",
+            "OwnProperty": "0",
+            "Pool": 0,
+            "Parking": 1,
+            "Garden": 0,
+            "Description": "One parking space of  20m2, inside the resident La Siesta II at Calle Monte Paraiso. Secure gate with remote control. \r\n\r\nPerfect for residents of Urbanization La Siesta, Parque del Paraiso etc.",
+            "PropertyFeatures": {
+                "Category": [
+                    {
+                        "Type": "Setting",
+                        "Value": [
+                            "Close To Shops",
+                            "Close To Sea",
+                            "Close To Town",
+                            "Close To Schools"
+                        ]
+                    },
+                    {
+                        "Type": "Condition",
+                        "Value": [
+                            "Good"
+                        ]
+                    },
+                    {
+                        "Type": "Views",
+                        "Value": [
+                            "Street"
+                        ]
+                    },
+                    {
+                        "Type": "Features",
+                        "Value": [
+                            "Near Transport"
+                        ]
+                    },
+                    {
+                        "Type": "Parking",
+                        "Value": [
+                            "Private"
+                        ]
+                    }
+                ]
+            },
+            "Pictures": {
+                "Count": 3,
+                "Picture": [
+                    {
+                        "Id": 1,
+                        "PictureURL": "https://cdn.resales-online.com/public/hku2fpg7p6/properties/9aa3950583e611eca97d0217bc231ef4/w400/1-8feb9a13440344d11ba504bcb1dd499c.jpg?v=1656047264",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 2,
+                        "PictureURL": "https://cdn.resales-online.com/public/hku2fpg7p6/properties/9aa3950583e611eca97d0217bc231ef4/w400/2-0b399daebcdd6827eaba8c944d7c5b78.jpg?v=1656047264",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 3,
+                        "PictureURL": "https://cdn.resales-online.com/public/hku2fpg7p6/properties/9aa3950583e611eca97d0217bc231ef4/w400/3-9044ff3015df52bb84e13bfc318443ab.jpg?v=1656047264",
+                        "PictureCaption": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Reference": "R3261178",
+            "AgencyRef": "",
+            "Country": "Spain",
+            "Province": "Málaga",
+            "Area": "Costa del Sol",
+            "Location": "Nueva Andalucía",
+            "SubLocation": "",
+            "PropertyType": {
+                "NameType": "Storage Room",
+                "Type": "Commercial",
+                "TypeId": "4-1",
+                "Subtype1": "Storage Room",
+                "SubtypeId1": "4-11",
+                "Subtype2": "Warehouse",
+                "SubtypeId2": "4-16"
+            },
+            "Status": {
+                "system": "Available",
+                "en": "Available"
+            },
+            "Bedrooms": "0",
+            "Bathrooms": "0",
+            "Currency": "EUR",
+            "Price": "7950",
+            "OriginalPrice": 7950,
+            "Dimensions": "Metres",
+            "Built": 7,
+            "Terrace": 0,
+            "GardenPlot": 0,
+            "CO2Rated": "",
+            "EnergyRated": "",
+            "OwnProperty": "0",
+            "Pool": 0,
+            "Parking": 0,
+            "Garden": 0,
+            "Description": "Storages for rent & sale in Magna Marbella, Nueva Andalucia.\r\n\r\nWe have more than 50 storages available so you can choose the one you like most.\r\n\r\nThe price for sale is 7.950€ and 50€/mo for rent.\r\n\r\nWe can do special price for clients who want more than 10 units.\r\n\r\n24 hours security, gated community and cameras.\r\n\r\nKeys in the office.",
+            "PropertyFeatures": {
+                "Category": [
+                    {
+                        "Type": "Setting",
+                        "Value": [
+                            "Close To Golf"
+                        ]
+                    },
+                    {
+                        "Type": "Condition",
+                        "Value": [
+                            "Excellent",
+                            "New Construction"
+                        ]
+                    },
+                    {
+                        "Type": "Features",
+                        "Value": [
+                            "Storage Room"
+                        ]
+                    },
+                    {
+                        "Type": "Furniture",
+                        "Value": [
+                            "Not Furnished"
+                        ]
+                    },
+                    {
+                        "Type": "Security",
+                        "Value": [
+                            "Gated Complex",
+                            "24 Hour Security"
+                        ]
+                    },
+                    {
+                        "Type": "Category",
+                        "Value": [
+                            "Bargain",
+                            "Investment"
+                        ]
+                    }
+                ]
+            },
+            "Pictures": {
+                "Count": 5,
+                "Picture": [
+                    {
+                        "Id": 1,
+                        "PictureURL": "https://cdn.resales-online.com/public/ertu08aq1s/properties/ezxwvoukqabfwrh/w400/1-8feb9a13440344d11ba504bcb1dd499c.jpg?v=1609868181",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 2,
+                        "PictureURL": "https://cdn.resales-online.com/public/ertu08aq1s/properties/ezxwvoukqabfwrh/w400/2-0b399daebcdd6827eaba8c944d7c5b78.jpg?v=1609868181",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 3,
+                        "PictureURL": "https://cdn.resales-online.com/public/ertu08aq1s/properties/ezxwvoukqabfwrh/w400/3-9044ff3015df52bb84e13bfc318443ab.jpg?v=1609868181",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 4,
+                        "PictureURL": "https://cdn.resales-online.com/public/ertu08aq1s/properties/ezxwvoukqabfwrh/w400/4-31eddec24faf40464bcee8b2fd51cd02.jpg?v=1609868181",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 5,
+                        "PictureURL": "https://cdn.resales-online.com/public/ertu08aq1s/properties/ezxwvoukqabfwrh/w400/5-b932bcf4fe2dcf29ec63deb5c5ded9de.jpg?v=1609868181",
+                        "PictureCaption": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Reference": "R3260746",
+            "AgencyRef": "2654-V",
+            "Country": "Spain",
+            "Province": "Málaga",
+            "Area": "Costa del Sol",
+            "Location": "Málaga",
+            "SubLocation": "",
+            "PropertyType": {
+                "NameType": "Office",
+                "Type": "Commercial",
+                "TypeId": "4-1",
+                "Subtype1": "Office",
+                "SubtypeId1": "4-10"
+            },
+            "Status": {
+                "system": "Available",
+                "en": "Available"
+            },
+            "Bedrooms": "0",
+            "Bathrooms": "0",
+            "Currency": "EUR",
+            "Price": "8000",
+            "OriginalPrice": 9500,
+            "Dimensions": "Metres",
+            "Built": 28,
+            "Terrace": 0,
+            "GardenPlot": 0,
+            "CO2Rated": "",
+            "EnergyRated": "",
+            "OwnProperty": "0",
+            "Pool": 0,
+            "Parking": 0,
+            "Garden": 0,
+            "Description": "2654-V Parking space located in central area of Malaga, near universities and Hospital Clinico. Very  easy access, located right next to the entrance to the elevator.\nIt is located just 10 minutes from the International Airport of Malaga, 10 minutes from beaches, 5 minutes Malaga city, 10 from the golf courses and just a few minutes from all amenities: supermarkets, restaurants, sports centers, schools and excellent combinations of public transport.\nProperties and services of our agency: \nAt our agency  we have many properties like this wonderful parking espace, adapting to the needs of each of our clients. A wide catalog of properties for sale, for rent, with different capacity and located in exclusive surroundings.\nWe also offer comprehensive advice service, exclusive real estate offers  and procedures for all types of documents, search for bespoke properties in the Costa del Sol, throughout our purchase-sale process of our properties. ",
+            "PropertyFeatures": {
+                "Category": [
+                    {
+                        "Type": "Setting",
+                        "Value": [
+                            "Town"
+                        ]
+                    },
+                    {
+                        "Type": "Condition",
+                        "Value": [
+                            "Good"
+                        ]
+                    },
+                    {
+                        "Type": "Furniture",
+                        "Value": [
+                            "Not Furnished"
+                        ]
+                    },
+                    {
+                        "Type": "Category",
+                        "Value": [
+                            "Resale"
+                        ]
+                    }
+                ]
+            },
+            "Pictures": {
+                "Count": 11,
+                "Picture": [
+                    {
+                        "Id": 1,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/1-8feb9a13440344d11ba504bcb1dd499c.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 2,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/2-0b399daebcdd6827eaba8c944d7c5b78.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 3,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/3-9044ff3015df52bb84e13bfc318443ab.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 4,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/4-31eddec24faf40464bcee8b2fd51cd02.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 5,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/5-b932bcf4fe2dcf29ec63deb5c5ded9de.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 6,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/6-e4bb9164e32bf007e59e9c17370925b7.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 7,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/7-8b51b490ae7dc526cb42772a5c6bbc97.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 8,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/8-7959dc633b592fe067223bb29ed1f628.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 9,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/9-ab6ad7d8fb5b0df5991e2ca5d2f18cd5.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 10,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/10-3e50b8be5b8cf91f2124a3c5191943c0.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 11,
+                        "PictureURL": "https://cdn.resales-online.com/public/h7gssls8lj/properties/llampiulmtgvepp/w400/11-d1cf5881fc1bcd9b7caba52dcf1cbdee.jpg?v=1644390892",
+                        "PictureCaption": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Reference": "R3915586",
+            "AgencyRef": "",
+            "Country": "Spain",
+            "Province": "Málaga",
+            "Area": "Costa del Sol",
+            "Location": "Calahonda",
+            "SubLocation": "",
+            "PropertyType": {
+                "NameType": "Garage",
+                "Type": "Commercial",
+                "TypeId": "4-1",
+                "Subtype1": "Garage",
+                "SubtypeId1": "4-17",
+                "Subtype2": "Parking Space",
+                "SubtypeId2": "4-12"
+            },
+            "Status": {
+                "system": "Available",
+                "en": "Available"
+            },
+            "Bedrooms": "0",
+            "Bathrooms": "0",
+            "Currency": "EUR",
+            "Price": "8000",
+            "OriginalPrice": 8000,
+            "Dimensions": "Metres",
+            "Built": 23,
+            "Terrace": 0,
+            "GardenPlot": 0,
+            "CO2Rated": "",
+            "EnergyRated": "",
+            "OwnProperty": "0",
+            "Pool": 0,
+            "Parking": 0,
+            "Garden": 0,
+            "Description": "Underground parking in Sitio de Calahonda.\r\nUrbanisation La Siesta II. Parking Number 12. Big sized 23 sqm.\r\nEnough space for 2 small cars or one car and motorcycles.",
+            "PropertyFeatures": {
+                "Category": []
+            },
+            "Pictures": {
+                "Count": 5,
+                "Picture": [
+                    {
+                        "Id": 1,
+                        "PictureURL": "https://cdn.resales-online.com/public/p0w9y2j206/properties/403a391108e611ecaa340217bc231ef4/w400/1-8feb9a13440344d11ba504bcb1dd499c.jpg?v=1633943111",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 2,
+                        "PictureURL": "https://cdn.resales-online.com/public/p0w9y2j206/properties/403a391108e611ecaa340217bc231ef4/w400/2-0b399daebcdd6827eaba8c944d7c5b78.jpg?v=1633943111",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 3,
+                        "PictureURL": "https://cdn.resales-online.com/public/p0w9y2j206/properties/403a391108e611ecaa340217bc231ef4/w400/3-9044ff3015df52bb84e13bfc318443ab.jpg?v=1633943111",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 4,
+                        "PictureURL": "https://cdn.resales-online.com/public/p0w9y2j206/properties/403a391108e611ecaa340217bc231ef4/w400/4-31eddec24faf40464bcee8b2fd51cd02.jpg?v=1633943111",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 5,
+                        "PictureURL": "https://cdn.resales-online.com/public/p0w9y2j206/properties/403a391108e611ecaa340217bc231ef4/w400/5-b932bcf4fe2dcf29ec63deb5c5ded9de.jpg?v=1633943111",
+                        "PictureCaption": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Reference": "R3863956",
+            "AgencyRef": "",
+            "Country": "Spain",
+            "Province": "Málaga",
+            "Area": "Costa del Sol",
+            "Location": "La Duquesa",
+            "SubLocation": "",
+            "PropertyType": {
+                "NameType": "Parking Space",
+                "Type": "Commercial",
+                "TypeId": "4-1",
+                "Subtype1": "Parking Space",
+                "SubtypeId1": "4-12",
+                "Subtype2": "Garage",
+                "SubtypeId2": "4-17"
+            },
+            "Status": {
+                "system": "Available",
+                "en": "Available"
+            },
+            "Bedrooms": "0",
+            "Bathrooms": "0",
+            "Currency": "EUR",
+            "Price": "8450",
+            "OriginalPrice": 8500,
+            "Dimensions": "Metres",
+            "Built": 24,
+            "Terrace": 0,
+            "GardenPlot": 0,
+            "CO2Rated": "",
+            "EnergyRated": "",
+            "OwnProperty": "0",
+            "Pool": 1,
+            "Parking": 1,
+            "Garden": 0,
+            "Description": "Ample parking space in gated complex - DUQUESA SUITES, GOLF AND GARDENS - La Duquesa",
+            "PropertyFeatures": {
+                "Category": [
+                    {
+                        "Type": "Setting",
+                        "Value": [
+                            "Close To Golf",
+                            "Close To Port",
+                            "Urbanisation"
+                        ]
+                    },
+                    {
+                        "Type": "Pool",
+                        "Value": [
+                            "Communal"
+                        ]
+                    },
+                    {
+                        "Type": "Features",
+                        "Value": [
+                            "Lift"
+                        ]
+                    },
+                    {
+                        "Type": "Security",
+                        "Value": [
+                            "Gated Complex"
+                        ]
+                    },
+                    {
+                        "Type": "Parking",
+                        "Value": [
+                            "Underground"
+                        ]
+                    },
+                    {
+                        "Type": "Category",
+                        "Value": [
+                            "Bargain"
+                        ]
+                    }
+                ]
+            },
+            "Pictures": {
+                "Count": 4,
+                "Picture": [
+                    {
+                        "Id": 1,
+                        "PictureURL": "https://cdn.resales-online.com/public/a9figrji1h/properties/b9770452c1f511eba29706b3c6b82ba8/w400/1-8feb9a13440344d11ba504bcb1dd499c.jpg?v=1645794683",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 2,
+                        "PictureURL": "https://cdn.resales-online.com/public/a9figrji1h/properties/b9770452c1f511eba29706b3c6b82ba8/w400/2-0b399daebcdd6827eaba8c944d7c5b78.jpg?v=1645794683",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 3,
+                        "PictureURL": "https://cdn.resales-online.com/public/a9figrji1h/properties/b9770452c1f511eba29706b3c6b82ba8/w400/3-9044ff3015df52bb84e13bfc318443ab.jpg?v=1645794683",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 4,
+                        "PictureURL": "https://cdn.resales-online.com/public/a9figrji1h/properties/b9770452c1f511eba29706b3c6b82ba8/w400/4-31eddec24faf40464bcee8b2fd51cd02.jpg?v=1645794683",
+                        "PictureCaption": ""
+                    }
+                ]
+            }
+        },
+        {
+            "Reference": "R3727642",
+            "AgencyRef": "",
+            "Country": "Spain",
+            "Province": "Málaga",
+            "Area": "Costa del Sol",
+            "Location": "Elviria",
+            "SubLocation": "",
+            "PropertyType": {
+                "NameType": "Storage Room",
+                "Type": "Commercial",
+                "TypeId": "4-1",
+                "Subtype1": "Storage Room",
+                "SubtypeId1": "4-11"
+            },
+            "Status": {
+                "system": "Under Offer",
+                "en": "Under Offer"
+            },
+            "Bedrooms": "0",
+            "Bathrooms": "0",
+            "Currency": "EUR",
+            "Price": "8950",
+            "OriginalPrice": 9850,
+            "Dimensions": "Metres",
+            "Built": 14,
+            "Terrace": 0,
+            "GardenPlot": 0,
+            "CO2Rated": "",
+            "EnergyRated": "",
+            "OwnProperty": "0",
+            "Pool": 0,
+            "Parking": 1,
+            "Garden": 0,
+            "Description": "Storage room, storage room in the basement of the Pino Golf, near N340, easy access, secure double entrance, 14 m2 built, 8 m2 inside.",
+            "PropertyFeatures": {
+                "Category": [
+                    {
+                        "Type": "Setting",
+                        "Value": [
+                            "Commercial Area",
+                            "Close To Golf",
+                            "Close To Sea"
+                        ]
+                    },
+                    {
+                        "Type": "Condition",
+                        "Value": [
+                            "Good"
+                        ]
+                    },
+                    {
+                        "Type": "Parking",
+                        "Value": [
+                            "Underground"
+                        ]
+                    },
+                    {
+                        "Type": "Category",
+                        "Value": [
+                            "Resale"
+                        ]
+                    }
+                ]
+            },
+            "Pictures": {
+                "Count": 7,
+                "Picture": [
+                    {
+                        "Id": 1,
+                        "PictureURL": "https://cdn.resales-online.com/public/fs0d35ifjj/properties/8f368f3a063311eba13006b3c6b82ba8/w400/1-8feb9a13440344d11ba504bcb1dd499c.jpg?v=1647262003",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 2,
+                        "PictureURL": "https://cdn.resales-online.com/public/fs0d35ifjj/properties/8f368f3a063311eba13006b3c6b82ba8/w400/2-0b399daebcdd6827eaba8c944d7c5b78.jpg?v=1647262003",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 3,
+                        "PictureURL": "https://cdn.resales-online.com/public/fs0d35ifjj/properties/8f368f3a063311eba13006b3c6b82ba8/w400/3-9044ff3015df52bb84e13bfc318443ab.jpg?v=1647262003",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 4,
+                        "PictureURL": "https://cdn.resales-online.com/public/fs0d35ifjj/properties/8f368f3a063311eba13006b3c6b82ba8/w400/4-31eddec24faf40464bcee8b2fd51cd02.jpg?v=1647262003",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 5,
+                        "PictureURL": "https://cdn.resales-online.com/public/fs0d35ifjj/properties/8f368f3a063311eba13006b3c6b82ba8/w400/5-b932bcf4fe2dcf29ec63deb5c5ded9de.jpg?v=1647262003",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 6,
+                        "PictureURL": "https://cdn.resales-online.com/public/fs0d35ifjj/properties/8f368f3a063311eba13006b3c6b82ba8/w400/6-e4bb9164e32bf007e59e9c17370925b7.jpg?v=1647262003",
+                        "PictureCaption": ""
+                    },
+                    {
+                        "Id": 7,
+                        "PictureURL": "https://cdn.resales-online.com/public/fs0d35ifjj/properties/8f368f3a063311eba13006b3c6b82ba8/w400/7-8b51b490ae7dc526cb42772a5c6bbc97.jpg?v=1647262003",
+                        "PictureCaption": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
