@@ -35,7 +35,7 @@ class App extends Component {
       <div className="App">
         <Header/>
         <Form getData={this.getData}/>
-        <MyList photos={data.Property.Pictures} items={data.Property}/>
+        <MyList items={data.Property}/>
 
       </div>
     );
