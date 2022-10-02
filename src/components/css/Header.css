@@ -1,0 +1,10 @@
+.logo_temp{
+    color: #A52A27;
+}
+.menu{
+    font-size: 1.1em;
+}
+
+a:hover{
+    color: #A52A27 !important;
+}
