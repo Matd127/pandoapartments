@@ -4,22 +4,22 @@ import Navbar from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import logoPando from "../img/logoPando3.png"
 
 
 const Header = () => {
     return(
-    <Navbar bg="light" expand="lg" >
-      <Container >
+    <Navbar bg="light" expand="xl"  className="ms-auto mb-2 mb-lg-0">
+      <Container>
         <Navbar.Brand href="#home">
-            <div className="logo_temp h2">
-                Pando Apartments S.L
+            <div className="logo">
+                <img src={logoPando} alt="cos"/>
             </div>
         </Navbar.Brand>
 
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" >
-        <Nav className="me-auto"></Nav>
-          <Nav className="menu">
+          <Nav className="menu navbar-nav ms-auto">
             <Nav.Link href="#home">Home</Nav.Link>
 
             <NavDropdown title="Offer" id="basic-nav-dropdown">

@@ -4,6 +4,7 @@ import { react, Component } from "react";
 import MyList from "./components/js/MyList";
 import data from "./API.json";
 import Header from "./components/js/Header";
+import Slider from "./components/js/Slider";
 
 
 //Umieścić to w pliku .env
@@ -34,8 +35,10 @@ class App extends Component {
     return (
       <div className="App">
         <Header/>
-        <Form getData={this.getData}/>
-        <MyList items={data.Property}/>
+        <Slider/>
+          <Form getData={this.getData}/>
+          <MyList items={data.Property}/>
+       
 
       </div>
     );
