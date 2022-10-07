@@ -7,7 +7,7 @@ import Carousel from "react-bootstrap/Carousel";
 
 const Slider = () => {
   return (
-    <div className="container-xxl pt-2">
+    <div className="container-xxl">
       <Carousel indicators={false} className="slider_s">
         <Carousel.Item>
           <img

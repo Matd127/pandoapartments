@@ -12,7 +12,7 @@ const MyList = (props) => (
       </h2>
     </div>
 
-    <div className="container d-flex justify-content-between flex-wrap align-items-center">
+    <div className="container d-flex justify-content-center flex-wrap align-items-center">
     {props.items.map((prop) => {
       return (
         <Card className="cardStyle m-2" key={prop.Reference}>

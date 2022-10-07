@@ -9,9 +9,9 @@ import logoPando from "../img/logoPando3.png"
 
 const Header = () => {
     return(
-    <Navbar bg="light" expand="xl"  className="ms-auto mb-2 mb-lg-0">
+    <Navbar  bg="light" expand="xl"  className="sticky-top ms-auto mb-2 mb-lg-0">
       <Container>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand href="/">
             <div className="logo">
                 <img src={logoPando} alt="cos"/>
             </div>
@@ -20,7 +20,7 @@ const Header = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" >
           <Nav className="menu navbar-nav ms-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
 
             <NavDropdown title="Offer" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
