@@ -13,7 +13,7 @@ class App extends Component {
   render() {
     return (
       <BrowserRouter>
-          <Header></Header>
+          <Header/>
           <Routes>
               <Route path="/" element = {<Home></Home>} ></Route>
               <Route path="/Properties" element={<Properties></Properties>} ></Route>

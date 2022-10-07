@@ -31,18 +31,14 @@ const Header = () => {
 
             <NavDropdown title="Property for Sale" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-                Another action
-              </NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
             </NavDropdown>
 
             <Nav.Link href="#link">Property for Rent</Nav.Link>
 
             <NavDropdown title="Sell your property" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-                Another action
-              </NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
             </NavDropdown>
 
             <NavDropdown title="Contact" id="basic-nav-dropdown">

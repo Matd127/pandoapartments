@@ -1,6 +1,7 @@
 import React from 'react'
 import '../css/Form.css'
 
+
 const Form = props => (
     <form className='pt' onSubmit={props.getData}>
         <input type="text" name="location" id="" placeholder="Location or reference..."/>

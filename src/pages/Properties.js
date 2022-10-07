@@ -1,8 +1,12 @@
 import React from "react";
+import Form from "../components/Properties/Form";
 
 const Properties = () => {
     return(
-        <div>cos2</div>
+        <div>
+            123
+            <Form />
+        </div>
     )
 }
 
