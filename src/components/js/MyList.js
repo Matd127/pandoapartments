@@ -19,7 +19,7 @@ const MyList = (props) => (
               {prop.Pictures.Picture.map((pic) => {
                 return (
                   <Carousel.Item>
-                    <img src={pic.PictureURL}></img>
+                    <img src={pic.PictureURL} alt={pic.Id}></img>
                   </Carousel.Item>
                 );
               })}
