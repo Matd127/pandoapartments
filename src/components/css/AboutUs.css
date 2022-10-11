@@ -1,0 +1,12 @@
+.aboutus img{
+    max-width: 90%;
+}
+h2{
+    color: rgb(226, 165, 10);
+}
+
+@media only screen and (max-width: 1200px) {
+    .size {
+      flex-wrap: wrap;
+    }
+} 

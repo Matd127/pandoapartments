@@ -1,4 +1,4 @@
-.button {
+/* .button {
     background-color:#eb383c;
     color: #fff;
     border:none; 
@@ -36,4 +36,12 @@ input[type=text]::placeholder {
 
 textarea:focus, select:focus, input:focus {
     outline: none;
+} */
+
+.form a:link, .form a:visited{
+    text-decoration: none;
+    color: white;
+}
+.form{
+    font-size: 1.2rem;
 }

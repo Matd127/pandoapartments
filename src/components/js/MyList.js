@@ -11,10 +11,10 @@ const MyList = (props) => (
       </h2>
     </div>
 
-    <div className="container d-flex justify-content-center flex-wrap align-items-center">
+    <div className="container d-flex flex-wrap justify-content-center align-items-center">
     {props.items.map((prop) => {
       return (
-        <Card className="cardStyle m-2" key={prop.Reference}>
+        <Card className="list cardStyle m-2" key={prop.Reference}>
             <Carousel indicators={false} interval={null}>
               {prop.Pictures.Picture.map((pic) => {
                 return (

@@ -3,6 +3,8 @@ import data from "../API.json"
 import Slider from "../components/js/Slider";
 import Form from "../components/js/Form";
 import MyList from "../components/js/MyList";
+import AboutUs from "../components/js/AboutUs";
+import SmallFooter from "../components/js/SmallFooter";
 
 
 class Home extends Component{
@@ -27,10 +29,11 @@ class Home extends Component{
     
     render(){
         return(
-            <div className="App">          
+            <div className="container-xxl text-center">          
             <Slider/>
+            <AboutUs/>
             <Form getData={this.getData}/>
-            <MyList items={data.Property}/>
+            <MyList items={data.Property}/>          
         </div>
         )
     }
