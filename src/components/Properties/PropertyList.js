@@ -1,14 +1,15 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Carousel from "react-bootstrap/Carousel";
+import '../css/PropertyList.css'
 
 const PropertyList = props => {
     return(
-        <div className="container d-flex justify-content-center flex-wrap align-items-center">
+        <div className="propertyList">
         {props.items.map((prop) => {
           return (
-            <Card className="cardStyle m-2" key={prop.Reference}>
-                <Carousel indicators={false} interval={null}>
+            <Card border="0" className="m-2" key={prop.Reference}>
+                <Carousel className="item" indicators={false} interval={null}>
                   {prop.Pictures.Picture.map((pic) => {
                     return (
                       <Carousel.Item>
@@ -18,7 +19,7 @@ const PropertyList = props => {
                   })}
                 </Carousel>
     
-                <Card.Title>{prop.Location}</Card.Title>
+                <Card.Title className="pt-1">{prop.Location}</Card.Title>
                 <div className="ref d-flex justify-content-end">Ref:{prop.Reference}</div>
     
             </Card>

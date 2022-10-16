@@ -1,8 +1,17 @@
-.list img{
-    height: 200px;
-    width: 300px;
+.myList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row-reverse;
+    padding: 40px;
+    align-items: center;
 }
 
-.cardStyle{
-    width: 18rem;
+.myList img{
+    height: 300px;
+    width: 450px;
+}
+
+h3{
+    color: #cf2727;
 }

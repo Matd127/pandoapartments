@@ -1,5 +1,4 @@
 import React from "react";
-import apartments from "../img/apartments.jpg";
 import "../css/AboutUs.css";
 
 const Aboutus = () => {
@@ -8,9 +7,9 @@ const Aboutus = () => {
       <div className="w-100 mt-5"><h2>Sales of Properties in Spain on the Costa Del Sol</h2></div>
        <div className="aboutus size d-flex">
       <div className="d-flex justify-content-center align-items-center">
-        <img src={apartments} alt="Apartments" className="p-2"></img>
+        <img src={`${process.env.PUBLIC_URL}/img/apartments.jpg`} alt="Apartments" className="p-2"></img>
       </div>
-      <div className="p-4">
+      <div className="p-4 d-flex justify-content-center align-items-center">
         <div className="pt-2 ">
         <p>If you wish to sell your property do not hesitate to assign this task to us – we cooperate locally with a number of realtors, who will be at your disposal.</p>
         <p>Property for sale in Spain on the Costa Del Sol.  

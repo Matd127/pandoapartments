@@ -1,38 +1,38 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import Carousel from "react-bootstrap/Carousel";
 import '../css/MyList.css'
 
 const MyList = (props) => (
-  <div>
+  <div className="mt-5">
     <div>
-      <h2 className="p-3">
+      <h3>
           Featured Properties
-      </h2>
+      </h3>
     </div>
 
-    <div className="container d-flex flex-wrap justify-content-center align-items-center">
+    <div className="myList">
     {props.items.map((prop) => {
       return (
-        <Card className="list cardStyle m-2" key={prop.Reference}>
-            <Carousel indicators={false} interval={null}>
+        <Card border="0" className="cards m-2" key={prop.Reference}>
               {prop.Pictures.Picture.map((pic) => {
-                return (
-                  <Carousel.Item>
-                    <img src={pic.PictureURL} alt={pic.Id}></img>
-                  </Carousel.Item>
-                );
+                if(pic.Id === 1){
+                  return (
+                    <img src={pic.PictureURL} alt={pic.Id} key={pic.Id}></img>
+                  );
+                }
+                // else{
+                //   return(
+                //     <img src="" alt="noImage"></img>  
+                // )
+                // }
+                
               })}
-            </Carousel>
-
-            <Card.Title>{prop.Location}</Card.Title>
+            <Card.Title className="p-1">{prop.Location}</Card.Title>
             <div className="ref d-flex justify-content-end">Ref:{prop.Reference}</div>
-
         </Card>
       );
     })}
     </div>
-    
   </div>
 );
 

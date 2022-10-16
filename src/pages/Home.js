@@ -29,7 +29,7 @@ class Home extends Component{
     
     render(){
         return(
-            <div className="container-xxl text-center">          
+            <div className="text-center">          
             <Slider/>
             <AboutUs/>
             <Form getData={this.getData}/>

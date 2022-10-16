@@ -4,16 +4,15 @@ import Navbar from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import logoPando from "../img/logoPando3.png"
 
 
 const Header = () => {
     return(
-    <Navbar  bg="light" expand="xl"  className="sticky-top ms-auto mb-2 mb-lg-0">
+    <Navbar bg="light" expand="xl" className="header sticky-top ms-auto mb-2 mb-lg-0">
       <Container>
         <Navbar.Brand href="/">
             <div className="logo">
-                <img src={logoPando} alt="cos"/>
+                <img src={`${process.env.PUBLIC_URL}/img/logoPando3.png`} alt="cos"/>
             </div>
         </Navbar.Brand>
 

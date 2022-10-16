@@ -45,3 +45,21 @@ textarea:focus, select:focus, input:focus {
 .form{
     font-size: 1.2rem;
 }
+
+.form__button{
+    background-color: #c92a2a;
+    display: inline-block;
+    border-width: 0px;
+    border-style: solid;
+    padding: 12px;
+}
+.form__button:hover{
+    background-color: #943333;
+    color: #fff;
+    display: inline-block;
+}
+
+.form__button a:hover a:active{
+    color: #fff;
+
+}

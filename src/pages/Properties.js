@@ -9,7 +9,6 @@ const Properties = () => {
 
     const getValue = val => {
         const filteredProperties = data.Property.filter(loc => loc.Location.includes(val.toString()))
-        console.log(filteredProperties)
         setProperty(filteredProperties)
     }
 
