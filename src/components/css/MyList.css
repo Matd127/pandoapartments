@@ -5,13 +5,33 @@
     flex-direction: row-reverse;
     padding: 40px;
     align-items: center;
+
 }
 
 .myList img{
-    height: 300px;
-    width: 450px;
+    height: 30vh;
+    width: 25vw;
 }
 
 h3{
     color: #cf2727;
 }
+
+@media only screen and (max-width: 1200px) {
+    .myList img{
+        height: 50vh;
+        width: 45vw;
+    }
+} 
+@media only screen and (max-width: 1000px) {
+    .myList img{
+        height: 50vh;
+        width: 70vw;
+    }
+} 
+@media only screen and (max-width: 600px) {
+    .myList img{
+        height: 40vh;
+        width: 70vw;
+    }
+} 

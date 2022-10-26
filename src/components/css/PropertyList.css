@@ -3,15 +3,42 @@
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 40px;
+    padding: 5rem;
 }
 
 .propertyList img{
-    height: 300px;
-    width: 450px;
+    height: 30vh;
+    width: 25vw;
 } 
 
 .item{
-    height: 300px;
-    width: 450px;
-} 
+    height: 30vh;
+    width: 25vw;
+}
+
+.ref{
+    font-size: 0.8rem;
+    color: rgb(150, 148, 148);
+}
+.propertyList a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.propertyList__button{
+    background-color: #c92a2a;
+    display: inline-block;
+    border-width: 0px;
+    border-style: solid;
+    padding: 12px;
+}
+.propertyList__button:hover{
+    background-color: #943333;
+    color: #fff;
+    display: inline-block;
+}
+
+.propertyList__button a:hover a:active{
+    color: #fff;
+
+}

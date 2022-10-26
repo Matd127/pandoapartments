@@ -2,8 +2,8 @@ import "./App.css";
 import { react, Component } from "react";
 import Header from "./components/js/Header";
 import {BrowserRouter, Route, Routes} from "react-router-dom"
-import Home from "./pages/Home";
-import Properties from "./pages/Properties";
+import Home from "./routers/Home";
+import Properties from "./routers/Properties";
 import SmallFooter from "./components/js/SmallFooter";
 
 //Umieścić to w pliku .env
