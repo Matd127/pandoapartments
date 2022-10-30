@@ -18,3 +18,7 @@
     color: darkgray;
     font-size: 0.8rem;
 }
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+    text-decoration: none !important;
+}

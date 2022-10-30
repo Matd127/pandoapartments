@@ -1,36 +1,58 @@
 .myList{
+    width: 100%;
+}
+
+.myList h1{
+    color: #cf2727;
+    font-size: 2.2rem !important;
+}
+
+.myList__list{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: row-reverse;
-    padding: 40px;
     align-items: center;
 
 }
+.myList a{
+   text-decoration: none;
+   color: #fff;
+}
 
-.myList img{
+.myList__button{
+    background-color: #c92a2a;
+    display: inline-block;
+    border-width: 0px;
+    border-style: solid;
+    padding: 12px;
+}
+.myList__button:hover{
+    background-color: #943333;
+    color: #fff;
+    display: inline-block;
+}
+
+
+.myList__list img{
     height: 30vh;
     width: 25vw;
 }
 
-h3{
-    color: #cf2727;
-}
-
 @media only screen and (max-width: 1200px) {
-    .myList img{
+    .myList__list img{
         height: 50vh;
         width: 45vw;
     }
 } 
 @media only screen and (max-width: 1000px) {
-    .myList img{
+    .myList__list img{
         height: 50vh;
         width: 70vw;
     }
 } 
 @media only screen and (max-width: 600px) {
-    .myList img{
+    .myList__list img{
         height: 40vh;
         width: 70vw;
     }
