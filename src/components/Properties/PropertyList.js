@@ -1,12 +1,21 @@
-import React from "react";
+import React, { useState } from "react";
 import Card from "react-bootstrap/Card";
 import Carousel from "react-bootstrap/Carousel";
 import '../css/PropertyList.css'
 import BedroomChildIcon from '@mui/icons-material/BedroomChild';
 import BathroomIcon from '@mui/icons-material/Bathroom';
 import LocalParkingIcon from '@mui/icons-material/LocalParking';
+import { Link } from "react-router-dom";
+import Property from "../../routers/Property";
 
 const PropertyList = props => {
+
+    const [Item, setItem] = useState(props.items)
+
+    const showId = (event) => {
+      console.log(event.target.id)
+    }
+
     return(
         <div className="propertyList">
         {props.items.map((prop) => {
@@ -40,9 +49,11 @@ const PropertyList = props => {
                 </div>
 
                 <div className="d-flex p-3 justify-content-around align-items-center">
-                    <div><h2>€ {prop.Price}</h2></div>
+                    <div>
+                      <h2>€ {prop.Price}</h2>
+                    </div>
                     <div> 
-                      <a href="#" className="propertyList__button">Dowiedz się więcej</a>
+                      <a href={`../Property/${prop.Reference}`} id={prop.Reference} onClick={showId} className="propertyList__button">Dowiedz się więcej</a>
                     </div>
                 </div>
 

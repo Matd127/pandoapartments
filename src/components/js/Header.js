@@ -50,7 +50,7 @@ const Header = () => {
               </NavDropdown.Item>
             </NavDropdown>
 
-            <Nav.Link activeClassName="active" href="#link">Contact</Nav.Link>
+            <Nav.Link href="#link">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
