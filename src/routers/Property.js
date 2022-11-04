@@ -14,6 +14,7 @@ const Property = () => {
        <div className="d-flex justify-content-center align-items-center flex-column">
             <a href="/Properties">Powrót do wyników wyszukiwania</a>
             <h1>{selectedProperty.PropertyType.NameType} in {selectedProperty.Location}, {selectedProperty.Province}, {selectedProperty.Country}</h1>
+            
        </div>
     )
 }
