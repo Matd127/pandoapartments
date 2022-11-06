@@ -3,7 +3,6 @@ import "../css/Header.css";
 import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
-import NavDropdown from "react-bootstrap/NavDropdown";
 
 const Header = () => {
   return (
@@ -26,30 +25,10 @@ const Header = () => {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="menu navbar-nav ms-auto">
             <Nav.Link href="/">Home</Nav.Link>
-
-            <NavDropdown title="Offer" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-                Another action
-              </NavDropdown.Item>
-            </NavDropdown>
-
-            <NavDropdown title="Property for Sale" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-                Another action
-              </NavDropdown.Item>
-            </NavDropdown>
-
+            <Nav.Link href="#link">Offer</Nav.Link>
+            <Nav.Link href="#link">Property for Sale</Nav.Link>
             <Nav.Link href="#link">Property for Rent</Nav.Link>
-
-            <NavDropdown title="Sell your property" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-                Another action
-              </NavDropdown.Item>
-            </NavDropdown>
-
+            <Nav.Link href="#link">Sell your property</Nav.Link>
             <Nav.Link href="#link">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>

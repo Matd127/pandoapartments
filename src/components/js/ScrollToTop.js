@@ -7,15 +7,15 @@ const ScrollToTop = () => {
   useEffect(() => {
     window.addEventListener("scroll", () => {
       if (window.scrollY > 400) {
-        const button = document.querySelector('.top-to-btn').classList.remove("top-to-btn-hidden");
+        document.querySelector('.top-to-btn').classList.remove("top-to-btn-hidden");
         setShowTopBtn(true);
       } else {
-        const button = document.querySelector('.top-to-btn').classList.add("top-to-btn-hidden");
-        console.log(button)
+        document.querySelector('.top-to-btn').classList.add("top-to-btn-hidden");
         setShowTopBtn(false);
       }
     });
   }, []);
+
   const goToTop = () => {
     window.scrollTo({
       top: 0,

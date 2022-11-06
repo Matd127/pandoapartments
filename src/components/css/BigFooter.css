@@ -1,0 +1,29 @@
+.big{
+    border-bottom: 1px red;
+}
+
+.big h3{
+    color: darkgray;
+}
+
+hr{
+    width: 10vw;
+    border: none !important;
+    border: 0;
+    height: 3px;
+    color: red;
+    background-color: red;
+}
+
+.big img{
+    width: 100%;
+    height: 100%;
+}
+
+.big .first{
+    max-height: 20vh;
+}
+
+.big .second{
+    height: 20vh;
+}

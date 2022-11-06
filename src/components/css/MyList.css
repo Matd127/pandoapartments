@@ -1,59 +1,97 @@
-.myList{
-    width: 100%;
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+
+.myList {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Verdana";
 }
 
-.myList h1{
-    color: #cf2727;
-    font-size: 2.2rem !important;
+.myList h1 {
+  color: #cf2727;
+  font-size: 2.2rem !important;
 }
 
-.myList__list{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    flex-direction: row-reverse;
-    align-items: center;
-
-}
-.myList a{
-   text-decoration: none;
-   color: #fff;
+.myList h2 {
+  color: #cf2727;
+  font-size: 1.8rem;
+  font-family: 'Prata', serif;
 }
 
-.myList__button{
-    background-color: #c92a2a;
-    display: inline-block;
-    border-width: 0px;
-    border-style: solid;
-    padding: 12px;
-}
-.myList__button:hover{
-    background-color: #943333;
-    color: #fff;
-    display: inline-block;
+.myList__list {
+  max-width: 75%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex-direction: row-reverse;
+  align-items: flex-start;
 }
 
-
-.myList__list img{
-    height: 30vh;
-    width: 25vw;
+.myList a {
+  text-decoration: none;
+  color: #fff;
 }
+
+.myList__btn{
+  color: red !important;
+}
+
+.myList__card {
+  width: 22vw;
+}
+
+.myList__list img:hover{
+  opacity: 0.90;
+}
+
+.myList__button {
+  background-color: #c92a2a;
+  display: inline-block;
+  border-width: 0px;
+  border-style: solid;
+  padding: 12px;
+}
+
+.myList__button:hover {
+  background-color: #943333;
+  color: #fff;
+  display: inline-block;
+}
+
+.myList__title {
+  font-size: 1.1rem;
+  padding: 0.4rem;
+}
+
+.myList__list img {
+  height: 25vh;
+  width: 100%;
+}
+
 
 @media only screen and (max-width: 1200px) {
-    .myList__list img{
-        height: 50vh;
-        width: 45vw;
-    }
-} 
+  .myList__list img {
+    height: 30vh;
+  }
+  .myList__card {
+    width: 30vw;
+  }
+}
 @media only screen and (max-width: 1000px) {
-    .myList__list img{
-        height: 50vh;
-        width: 70vw;
-    }
-} 
-@media only screen and (max-width: 600px) {
-    .myList__list img{
-        height: 40vh;
-        width: 70vw;
-    }
-} 
+  .myList__list img {
+    height: 25vh;
+  }
+  .myList__card {
+    width: 30vw;
+  }
+}
+@media only screen and (max-width: 850px) {
+  .myList__list img {
+    height: 30vh;
+  }
+  .myList__card {
+    width: 70vw;
+  }
+}

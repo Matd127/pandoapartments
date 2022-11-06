@@ -1,16 +1,12 @@
-import React, { useState } from "react";
+import React from "react";
 import Card from "react-bootstrap/Card";
 import Carousel from "react-bootstrap/Carousel";
 import '../css/PropertyList.css'
 import BedroomChildIcon from '@mui/icons-material/BedroomChild';
 import BathroomIcon from '@mui/icons-material/Bathroom';
 import LocalParkingIcon from '@mui/icons-material/LocalParking';
-import { Link } from "react-router-dom";
-import Property from "../../routers/Property";
 
 const PropertyList = props => {
-
-    const [Item, setItem] = useState(props.items)
 
     const showId = (event) => {
       console.log(event.target.id)
@@ -55,12 +51,7 @@ const PropertyList = props => {
                     <div> 
                       <a href={`../Property/${prop.Reference}`} id={prop.Reference} onClick={showId} className="propertyList__button">Dowiedz się więcej</a>
                     </div>
-                </div>
-
-                <Card.Text>
-                  
-                </Card.Text>
-                   
+                </div>                  
             </Card>
           );
         })}
