@@ -1,0 +1,17 @@
+.property__slider{
+    width: 49vw;
+}
+
+.property__slider img{
+    width: 100%;
+    height: 50vh;
+}
+
+.property__info{
+    width: 30vw;
+}
+
+.property__info .number{
+    color: #cf2727;
+    font-weight: bold;
+}

@@ -3,16 +3,7 @@
 }
 
 .big h3{
-    color: darkgray;
-}
-
-hr{
-    width: 10vw;
-    border: none !important;
-    border: 0;
-    height: 3px;
-    color: red;
-    background-color: red;
+    color: rgb(105, 105, 105);
 }
 
 .big img{

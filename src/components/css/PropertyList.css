@@ -1,15 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prata&family=Roboto:wght@300&display=swap');
+
  .propertyList{
+    width: 100%;
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     justify-content: center;
-    flex-direction: row-reverse;
     align-items: center;
 }
 
+.propertyList__list{
+    max-width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+}
+
+.propertyList__info{
+    color: #494646;
+    font-family: 'Roboto', sans-serif;
+}
+
 .propertyList img{
-    height: 30vh;
-    width: 25vw;
-} 
+    height: 25vh;
+    width: 100%;
+}
+
+.propertyList__card{
+    width: 22vw;
+}
+
+.propertyList h1{
+    padding-top: 1rem;
+    font-family: 'Prata', serif;
+    color: #494646;
+}
+
+.propertyList h2{
+    font-family: 'Prata', serif;
+    color: #cf2727;
+    font-size: 1.8rem;
+}
 
 .item{
     height: 30vh;
@@ -41,4 +74,26 @@
 .propertyList__button a:hover a:active{
     color: #fff;
 
+}
+
+@media only screen and (max-width: 1200px) {
+    .propertyList img  {
+      height: 30vh;
+    }
+    .propertyList__card{
+        width: 35vw;
+    }
+  }
+  @media only screen and (max-width: 1000px) {
+    .propertyList img {
+      height: 25vh;
+    }
+  }
+  @media only screen and (max-width: 850px) {
+    .propertyList img {
+      height: 30vh;
+    }
+    .propertyList__card{
+        width: 65vw;
+    }
 }

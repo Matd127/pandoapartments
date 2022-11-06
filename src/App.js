@@ -7,6 +7,7 @@ import Properties from "./routers/Properties";
 import SmallFooter from "./components/js/SmallFooter";
 import Property from "./routers/Property";
 import ScrollToTop from "./components/js/ScrollToTop";
+import "./components/css/Global.css"
 
 //Umieścić to w pliku .env
 const API_KEY = "8856af083f00c4fcd880a8b121341f7c41b1d4ec";

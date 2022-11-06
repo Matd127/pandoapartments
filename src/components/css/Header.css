@@ -22,3 +22,9 @@
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
     text-decoration: none !important;
 }
+
+.content__wrap{
+    max-width: 30vh;
+    text-align: left;
+    padding-top: 10px;
+}
