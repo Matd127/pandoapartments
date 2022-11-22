@@ -16,5 +16,5 @@ You may also see any lint errors in the console.
 
 ### `npm i`
 
-Installs needed packages .\
+Installs needed packages.\
 Run it if you have errors.
